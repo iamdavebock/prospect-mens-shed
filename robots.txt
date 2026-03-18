@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://prospect-mens-shed-v2.sites.sieno.com.au/sitemap-index.xml
