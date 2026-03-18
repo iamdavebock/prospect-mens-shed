@@ -1,22 +1,27 @@
-# [Project Name] — Session State
+# Prospect Mens Shed — Session State
 
 ## Last Session
-- **Date:** [YYYY-MM-DD]
+- **Date:** 2026-03-19
 - **Status:** Project initialised
 
 ## Completed
-- Project scaffold created
-- CLAUDE.md, SESSION.md initialised
+- Ember project scaffolded (`prospect-mens-shed`)
+- GitHub repo created: https://github.com/iamdavebock/prospect-mens-shed
+- Initial commit pushed to `main`
+- Added to `agents.code-workspace`
+- Global topic memory created
 
 ## In Progress
-- Nothing currently in progress
+- Vercel link: Dave to connect GitHub repo to "Prospect Mens Shed V2" in Vercel dashboard
 
 ## Next Steps (priority order)
-1. [First task]
-2. [Second task]
+1. Confirm Vercel deployment is linked and working
+2. Pull down existing site code from Vercel (or scaffold locally if not yet in repo)
+3. Begin customisation as needed
 
 ## Blockers
 - None
 
 ## Access
-- [URL or access detail]
+- GitHub: https://github.com/iamdavebock/prospect-mens-shed
+- Vercel: Prospect Mens Shed V2 (link via Vercel dashboard — connect to GitHub repo above)

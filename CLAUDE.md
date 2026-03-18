@@ -7,7 +7,8 @@
 
 **Name:** prospect-mens-shed
 **Created:** 2026-03-18
-**GitHub:** 
+**GitHub:** https://github.com/iamdavebock/prospect-mens-shed
+**Vercel:** Prospect Mens Shed V2
 **Status:** 🟡 In Progress
 
 Website for Prospect Mens Shed community workshop
