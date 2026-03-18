@@ -1,0 +1,15 @@
+{
+  "terminal.integrated.defaultProfile.linux": "Claude — prospect-mens-shed",
+  "terminal.integrated.profiles.linux": {
+    "Claude — prospect-mens-shed": {
+      "path": "bash",
+      "args": ["-c", "ember-session attach prospect-mens-shed"],
+      "icon": "flame",
+      "color": "terminal.ansiMagenta"
+    }
+  },
+  "terminal.integrated.defaultLocation": "editor",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "remote.SSH.serverPickScope": "workspace",
+  "task.allowAutomaticTasks": "on"
+}
